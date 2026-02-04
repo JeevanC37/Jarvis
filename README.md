@@ -1,3 +1,4 @@
+
 # 🤖 Jarvis AI Assistant
 
 A personal AI assistant powered by a **self-hosted LLM (LLaMA)** with **Pinecone vector database** for knowledge retrieval (RAG) and a **Streamlit chatbot UI**.
@@ -250,3 +251,6 @@ MIT License - Feel free to use and modify for your enterprise needs!
 ---
 
 Built with ❤️ for the "Code Meets Co-Pilot" workshop
+=======
+# Jarvis
+>>>>>>> f1d3b10a5d17543d7338d7282022e6b9cd079b7c
