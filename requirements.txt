@@ -1,0 +1,23 @@
+# Core dependencies
+fastapi==0.109.0
+uvicorn==0.27.0
+python-dotenv==1.0.0
+
+# LLM and Embeddings
+langchain==0.1.0
+langchain-community==0.0.13
+sentence-transformers>=2.6.0
+
+# Vector Database
+pinecone-client==3.0.0
+
+# UI
+streamlit==1.30.0
+
+# HTTP client
+httpx==0.26.0
+requests==2.31.0
+
+# Utilities
+pydantic==2.5.3
+python-multipart==0.0.6
